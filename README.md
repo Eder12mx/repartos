@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # isit_entregas_app
 
 App para servicios de entregas a domicilio.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# repartos
+>>>>>>> 940b5d3d2455ab1fff4c461cf87064a50feb49af
